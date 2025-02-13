@@ -1,3 +1,2 @@
-# 15MINTIMER
+# [15MINTIMER](https://10timer.com/15-minute-timer)
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/mohammadnours/15MINTIMER)
